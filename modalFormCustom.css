@@ -12,19 +12,3 @@ body{
 .formBackground{
 	background-color: #FFF0A3;
 }
-
-/*top buttons menu*/
-.light_ca{
-	padding: 12px;
-	color: #eee;
-	background-color: #202020;
-}
-.light_ca:hover{
-	text-decoration: none;
-	color: #42DCA3;
-	background-color: #000;
-}
-#cablog:hover{
-	color: #D46A6A;
-}
-/*end top buttons menu*/
